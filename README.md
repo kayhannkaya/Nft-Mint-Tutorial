@@ -12,9 +12,9 @@ I used my trial wallet for to be example.(public and secret key). You have to us
 
 İmportant Resources:
 
-https://docs.alchemy.com/docs/create-web3-dapp
-https://hardhat.org/hardhat-runner/docs/guides/verifying
-https://etherscan.io/
-https://docs.pinata.cloud/docs/dedicated-ipfs-gateways
-https://tailwindcss.com/docs/guides/nextjs
+https://docs.alchemy.com/docs/create-web3-dapp <br>
+https://hardhat.org/hardhat-runner/docs/guides/verifying <br>
+https://etherscan.io/ <br>
+https://docs.pinata.cloud/docs/dedicated-ipfs-gateways <br>
+https://tailwindcss.com/docs/guides/nextjs <br>
 
